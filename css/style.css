@@ -2,6 +2,7 @@
 .carousel-multi-item.v-2.product-carousel .carousel-item-next,
 .carousel-multi-item.v-2.product-carousel .carousel-item-prev {
   display: -webkit-box;
+  
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex; }
@@ -1237,3 +1238,7 @@ h1, h2, h3, h4, h5,
     .slide-one-item .owl-dots .owl-dot.active > span {
       width: 20px;
       background: #fff; }
+.bg-blue{
+  background-color: #0d2842;
+}
+
