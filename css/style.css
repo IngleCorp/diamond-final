@@ -1243,3 +1243,13 @@ h1, h2, h3, h4, h5,
   border:none;
 }
 
+ .imgico{
+    padding: 20px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .lin-block{
+    display: inline-block;
+    padding:10px;
+  }
